@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Sara Ahmed 👋
 
-<!--
-**saraahmed7289-tech/saraahmed7289-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Flutter Developer | Computer Science Student
 
-Here are some ideas to get you started:
+I'm a Computer Science student passionate about building mobile applications with Flutter and Dart.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 3rd-year Computer Science student
+- 💙 Currently training in Flutter at Route
+- 💻 Learning Dart, OOP, and Flutter
+- 🚀 Interested in building clean, user-friendly mobile applications
+- 📚 Expected graduation: 2028
+
+### 🛠️ Skills
+
+- Dart
+- Flutter
+- Object-Oriented Programming (OOP)
+- Git & GitHub
+
+### 📫 Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/sara-ahmed-a907b93b0)
