@@ -1,6 +1,6 @@
 # Hi, I'm Sara Ahmed 👋
 
-### Flutter Developer | Computer Science Student
+### Flutter Developer in Training | Computer Science Student
 
 I'm a Computer Science student passionate about building mobile applications with Flutter and Dart.
 
